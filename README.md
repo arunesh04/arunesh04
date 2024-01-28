@@ -92,6 +92,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postman,neovim,figma" />
   </a>
+    <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/>
+ 
 </p>
 <h3 align="left">Activity:</h3>
 
