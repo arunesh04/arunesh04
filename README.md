@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **aruneshj07@gmail.com**
 
-- 📄 Know about me
+- 📄 Know about me [Arunesh J](https://drive.google.com/file/d/1HxRj_RfbfrTBpjUMZ7kG6nNbqP4FUoX3/view?usp=drive_link)
 
 - ⚡ Fun fact **' Commitment Issues Resolved '**
 
