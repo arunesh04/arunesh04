@@ -7,29 +7,26 @@
 </p>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="60" height="60" />
+<!--   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" /> -->
+<!--   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" /> -->
+<!--   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" /> -->
 </div>
+
 <br>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 <br>
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 I’m currently working on [AristotleAi](https://aristotlei.com/)
+- 👯 Kaggle Notebooks Expert 
 
-- 💬 Ask me about **Terraform , Circle Ci , Kubernetes**
+- 💬 Ask me about **Terraform , Docker , Kubernetes**
 
 - 📫 How to reach me **aruneshj07@gmail.com**
 
