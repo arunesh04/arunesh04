@@ -52,14 +52,14 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,js" />
+    <img src="https://skillicons.dev/icons?i=c,java,py" />
   </a>
 </p>
 - Frontend
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
   </a>
 </p>
 - Backend
@@ -73,16 +73,16 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,kubernetes,docker,bash,terraform,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,bash,terraform,linux" />
   </a>
 </p>
-- AI/ML
-<br><br>
-<p align="left">
+<!-- - AI/ML
+<br><br> -->
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
   </a>
-</p>
+</p> -->
 - Tools
 <br><br>
 <p align="left">
