@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 Kaggle Notebooks Expert 
+- 👯 Kaggle Notebooks Expert [Aruneshhh](https://www.kaggle.com/aruneshhh)
 
 - 💬 Ask me about **Terraform , Docker , Kubernetes**
 
