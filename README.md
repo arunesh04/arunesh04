@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **aruneshj07@gmail.com**
 
-- 📄 Know about me [Arunesh J](https://drive.google.com/file/d/1HxRj_RfbfrTBpjUMZ7kG6nNbqP4FUoX3/view?usp=drive_link)
+- 📄 Know about me [Arunesh J](https://drive.google.com/file/d/1_WG8ug3bM5NqJfiyVKlSIjPDQ7ihqaR8/view?usp=drivesdk)
 
 - ⚡ Fun fact **' Commitment Issues Resolved '**
 
