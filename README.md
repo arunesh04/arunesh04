@@ -22,15 +22,13 @@
 <br><br>
 <br>
 
-- 🌱 I’m currently learning **Devops**
-
-- 👯 Kaggle Notebooks Expert [Aruneshhh](https://www.kaggle.com/aruneshhh)
-
-- 💬 Ask me about **Terraform , Docker , Kubernetes**
+- 🌱 I’m currently working on **kops.dev**
 
 - 📫 How to reach me **aruneshj07@gmail.com**
 
 - 📄 Know about me [Arunesh J](https://drive.google.com/file/d/1_WG8ug3bM5NqJfiyVKlSIjPDQ7ihqaR8/view?usp=drivesdk)
+
+- 👯 Kaggle Notebooks Expert [Aruneshhh](https://www.kaggle.com/aruneshhh)
 
 - ⚡ Fun fact **' Commitment Issues Resolved '**
 
@@ -41,13 +39,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/arunesh-j-29366b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunesh-j-29366b24a/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/aruneshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aruneshhh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/arunesh_j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arunesh_j/" height="30" width="40" /></a>
 </p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 - Programming Languages
 <br><br>
 <p align="left">
@@ -76,13 +73,13 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,bash,terraform,linux" />
   </a>
 </p>
-<!-- - AI/ML
-<br><br> -->
-<!-- <p align="left">
+ AI/ML
+<br><br> 
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
   </a>
-</p> -->
+</p>
 - Tools
 <br><br>
 <p align="left">
@@ -97,4 +94,4 @@
 ![Arunesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arunesh04&custom_title=Arunesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
